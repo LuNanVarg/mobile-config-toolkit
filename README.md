@@ -53,3 +53,11 @@ Ver [`docs/diagnostico.md`](docs/diagnostico.md) para la guía completa de cómo
 ## Licencia
 
 MIT — usalo, adaptalo, y si te sirve para otro dispositivo, un PR con el caso documentado suma.
+
+---
+
+> **Gracias por la confianza.**
+> — **Nan Lu** 🌙
+
+---
+
